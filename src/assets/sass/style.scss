@@ -1,0 +1,30 @@
+@import "header";
+@import "home";
+@import "footer";
+@import "blog";
+@import "about";
+@import "darklightmode";
+@import "contact";
+@import "shop";
+@import "cart";
+@import "blogdetails";
+@import "login";
+@import "productdetails";
+@import "wishlist";
+@import "checkout";
+@import "faq";
+@import "dashboard";
+
+body *{
+    font-size: 17px;
+    color: #373737 ; 
+    
+    .btn:hover{
+       background-color: #485016 !important;
+    }
+}
+
+
+
+
+ 

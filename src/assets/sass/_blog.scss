@@ -1,0 +1,87 @@
+.blog{
+    background-color: #F6F3ED;
+    
+    h1{
+        color: #555E1E !important;
+        font-size: 28px;
+    }
+    .card{
+        background-color: #F6F3ED;
+        border: 0;
+        border-top:1px solid #dfdfdf;
+        padding-top: 45px; 
+        padding-bottom: 45px; 
+        
+        .date{
+            background-color: white;
+            width: max-content;
+            position: absolute;
+            z-index: 3;
+            margin: 10px 0 0 10px;
+            .date-day,.date-month{
+                background-color: white;
+                color: #333333 !important;
+                font-weight:500;
+                padding: 0 14px;
+            }
+            .date-day{
+                font-size: 18px !important;
+                
+            }  
+        }
+        .info{
+            background-color: #555E1E;
+            color: white !important;
+            font-size: 12px !important;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 3px 11px;
+            word-spacing: 3px;
+            position: absolute;
+            z-index: 3;
+            width: max-content;
+            bottom: 55px;
+            left: 10px;
+        }
+        @media screen and (max-width: 432px) {
+            .info{
+                bottom: 380px;
+            }
+            button{
+                margin-left: -156px;
+            }
+        }
+        img{
+            position: relative;
+        }
+        .card-text a{
+            font-size: 38px !important;
+            color: #333333 ;
+        }
+
+        span{
+            font-size: 16px !important;
+            color: #A5A5A5 !important;
+        }
+
+        .btn{
+            background-color: #555E1E;
+            border: none;
+            color: white !important;
+            font-size: 13px !important;
+            border-radius: 0;
+            padding: 15px 20px ;
+            min-height: 42px;
+            font-weight: 500;
+        }
+    }
+
+    .card:hover .big-img{
+        transform: scale(1.06);
+        transition: ease-in-out;
+        transition-duration: 0.3s;
+    }
+    .img-box{
+        overflow: hidden;
+    }
+}

@@ -1,0 +1,292 @@
+.slider {
+    background-color: #F6F3ED;
+
+    .category {
+        font-size: 38px;
+        font-weight: 600;
+        color: #333333;
+    }
+
+    .slider-box-two {
+        border-left: 2px solid #555E1E;
+        padding-left: 40px;
+    }
+
+    .sliderfirst {
+        background-image: url('https://woodmart.xtemos.com/plants/wp-content/uploads/sites/12/2023/05/w-ps-slide-1-opt-1.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 76vh;
+
+        .avatars {
+            width: 23%;
+        }
+
+        .trustpilot {
+            width: 20%;
+        }
+
+    }
+
+    h1 {
+        color: white !important;
+        font-size: 36px !important;
+    }
+
+    p {
+        color: #FFFFFFCC !important;
+        font-size: 16px !important;
+
+        u {
+            color: #FFFFFFCC !important;
+        }
+    }
+
+    .slidersecond {
+        background-image: url('https://woodmart.xtemos.com/plants/wp-content/uploads/sites/12/2023/05/w-ps-slide-2-opt.jpg');
+        background-repeat: no-repeat;
+        background-position: inherit;
+        background-size: cover;
+        width: 100%;
+        height: 76vh;
+
+        button {
+            background-color: #555E1E;
+            color: white !important;
+            font-size: 13px !important;
+            padding: 5px 20px;
+            height: 6vh;
+        }
+    }
+
+    .sliderthird {
+        background-image: url('https://woodmart.xtemos.com/plants/wp-content/uploads/sites/12/2023/05/w-ps-slide-3-opt-1.jpg');
+        background-repeat: no-repeat;
+        background-position: inherit;
+        background-size: cover;
+        width: 100%;
+        height: 76vh;
+
+        button {
+            background-color: #555E1E;
+            color: white !important;
+            font-size: 13px !important;
+            padding: 5px 20px;
+            height: 6vh;
+        }
+    }
+
+    @media screen and (max-width:576px) {
+        .category-box *{
+            display: none;
+        }
+        .slider-box-two{
+            border: none;
+            margin-top: 0;
+            padding-top: 0;
+        }
+    }
+
+}
+
+.exoticflowers {
+    .row {
+        border-top: 2px solid #555E1E;
+    }
+
+    h2 {
+        color: #242424;
+        font-size: 28px !important;
+    }
+
+    .exotictext {
+        color: #777777 !important;
+        font-size: 16px !important;
+    }
+
+    .card {
+        background-color: #F6F3ED;
+
+        button {
+            background-color: #555E1E;
+            border: none;
+            color: white !important;
+            font-size: 12px !important;
+            border-radius: 0;
+            padding: 5px 14px;
+            min-height: 36px;
+        }
+
+        .fa-star {
+            color: #EABE12 !important;
+            font-size: 100% !important;
+        }
+
+        .card-title {
+            color: #333333;
+            font-size: 19px !important;
+
+        }
+
+        .card-text {
+            color: #555E1E !important;
+            font-weight: bold;
+        }
+    }
+
+    ol {
+        list-style: none;
+        position: absolute;
+        z-index: 9;
+        background-color: #f4f4f4;
+
+        li,
+        p {
+            background-color: #00000000;
+            color: #242424 !important;
+        }
+    }
+
+    del {
+        color: #BBBBBB;
+        font-size: 14px;
+    }
+
+    img:hover {
+        transform: scale(1.06);
+        transition: ease-in-out;
+        transition-duration: 0.3s;
+        position: relative;
+
+    }
+
+    .img-box {
+        overflow: hidden;
+    }
+
+    .hover-button {
+        position: absolute;
+        background-color: white;
+        right: 0;
+        display: none;
+
+        i {
+            color: #242424;
+            background-color: white;
+        }
+
+        button {
+            background-color: white;
+        }
+    }
+}
+
+.videocard {
+    background-color: #F6F3ED;
+
+    .card video {
+        object-fit: cover;
+        height: 500px;
+    }
+
+    h2 {
+        color: #242424;
+        font-size: 28px !important;
+    }
+
+    .card {
+        h6 {
+            color: #FFFFFFCC !important;
+        }
+
+        h1 {
+            color: white !important;
+            font-size: 35px !important;
+        }
+
+        p {
+            color: white !important;
+            font-size: 14px;
+            font-weight: medium;
+            border-bottom: 2px solid #FFFFFFCC;
+            width: max-content;
+        }
+    }
+
+    @media screen and (max-width:800px) {
+        .row {
+            row-gap: 30px;
+
+            h2 {
+                margin-bottom: 10px !important;
+            }
+        }
+    }
+}
+
+.extensiveplants {
+    background-color: #555E1E !important;
+    // height: 75vh;
+
+    .extensive-plants-title {
+        color: white;
+        font-size: 68px;
+        font-weight: 500;
+        line-height: 80px;
+    }
+}
+
+.extensiveplants *{
+        background-color: #24242400 !important;
+}
+.extensive-column-1 *{
+        background-color: #24242400 !important;
+}
+.extensive-column-2{
+    background-color: #24242400 !important;
+
+    @media screen and (max-width:576px) {
+        img{
+            width: 300px;
+        }
+    }
+}
+
+.extensive-column-1 {
+    background-color: #E7E5D9 !important;
+
+    h2 {
+        line-height: 48px;
+        font-size: 38px;
+        color: #242424;
+        border-bottom: 2px solid #555E1E;
+    }
+}
+
+.instacards {
+    .row {
+        border-top: 2px solid rgba(94, 104, 33, 1);
+    }
+
+    h5 {
+        font-size: 28px;
+        margin-top: 74px;
+    }
+
+    .card {
+        background-color: #F6F3ED;
+    }
+
+    background-color: #F6F3ED;
+
+    @media screen and (min-width: 1325px) {
+        img {
+            width: 206px;
+            height: 206px;
+        }
+
+    }
+}
+

@@ -1,0 +1,82 @@
+.contacthero{
+    h1{
+        color: #5E6821 !important;
+        font-size: 28px;
+    }
+    h2{
+        font-size: 68px;
+        line-height: 78px;
+        color: #242424;
+    }
+    @media screen and (max-width: 524px) {
+        h2{
+            font-size: 48px;
+            line-height: 58px;
+        }
+    }
+
+    p{
+        color: #777777;
+        font-size: 16px;
+        font-weight: 500;
+        span{
+            color: #5E6821 !important;
+            font-size: 16px;
+            font-weight: 600;
+        }
+    }
+    button{
+        color: white !important;
+        background-color: #5E6821;
+        padding: 12px 20px;
+        margin-bottom: 20px;
+        font-size: 13px;
+        line-height: 1.2;
+    }
+    .icon-con{
+        i{
+            border: 2px solid #5E6821;
+            color: #5E6821;
+            font-size: 18px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition-timing-function: linear;
+            transition-duration: 0.15s;
+        }
+        i:hover{
+            color: white;
+            background-color: #5E6821;
+        }
+    }
+}
+
+.contactfeature{
+    .row{
+        border-top:2px solid #5E6821;
+    }
+    h4{
+        display: inline-block;
+        color: #242424;
+        font-size: 48px;
+    }
+    .list-title{
+        p{
+            color: #242424;
+            font-size: 16px;
+            font-weight: 450;
+            padding: 0 15px;
+        }
+    }
+    .list-text{
+        p{
+            color: #777777;
+            font-size: 16px;
+            font-weight: 500;
+        }
+    }
+    h5{
+        color: #242424;
+        font-size: 18px;
+        font-weight: 450;
+    }
+}

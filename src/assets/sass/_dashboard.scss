@@ -1,0 +1,51 @@
+.dashboard {
+    h2 {
+        font-size: 38px;
+        color: #555E1E;
+    }
+
+    .table {
+        background-color: #F6F3ED00;
+
+        thead,
+        tbody,
+        th,
+        tr,
+        td {
+            background-color: #F6F3ED00;
+        }
+
+        .edit-btn {
+            border: none;
+            font-weight: 500;
+        }
+
+        thead {
+            th{
+                font-size: 20px;
+                font-weight: 500;
+            }
+        }
+
+        tbody{
+            .blog-title{
+                font-size: 18px;
+            }
+        }
+    }
+    .card{
+        display: none;
+    }
+    @media screen and (max-width: 780px) {
+        .table {
+            display: none;
+        }
+        .card{
+            display: block !important;
+        }
+    }
+    .cart-title{
+        font-weight: 500;
+    }
+
+}
