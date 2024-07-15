@@ -1,0 +1,39 @@
+@import "header";
+@import "home";
+@import "footer";
+@import "blog";
+@import "about";
+@import "darklightmode";
+@import "contact";
+@import "shop";
+@import "cart";
+@import "blogdetails";
+@import "login";
+@import "productdetails";
+@import "wishlist";
+@import "checkout";
+@import "faq";
+@import "dashboard";
+@import "thankyou";
+
+body *{
+    font-size: 17px;
+    color: #373737 ;
+    .btn:hover{
+       background-color: #485016 !important;
+    }
+    .swal-button{
+        background-color: #6c7918;
+    }
+    .swal-button:hover{
+        background-color: #4b540b !important;
+    }
+    .fa-star,.fa-star-half-stroke{
+        color: #EABE12 !important;
+    }
+}
+
+
+
+
+ 

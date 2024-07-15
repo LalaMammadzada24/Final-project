@@ -1,0 +1,48 @@
+.navbar {
+   
+    background-color: #F6F3ED;
+    // position: fixed !important;
+    z-index: 9;
+    width: 100%;
+    .woodmarthead{
+        border-bottom: 2px solid rgba(94, 104, 33, 1);
+        padding-bottom: 8px;
+        padding: 16px;
+
+        button, .btn{
+            border: none;
+            background-color: #ffffff00 !important;
+        }
+        .nav-item{
+            span{
+                background-color: #5E6821 ;
+            }
+        }
+        img{
+            width: 150px;
+            height: 50px;
+        }
+    }
+
+    li .nav-link:hover{
+        color:#5E6821 !important;
+    }
+    .dropdown-menu li{
+        background-color: white;
+    }
+    .navbar-brand{
+        background-color: #ffffff00;
+    }
+    .ant-select-selection-search,.ant-select-selection-item,.ant-select-arrow{
+        background-color: white !important;
+        svg{
+        background-color: white !important;
+        }
+    }
+}
+
+nav .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
