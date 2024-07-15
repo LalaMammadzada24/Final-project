@@ -1,0 +1,286 @@
+{
+    "navbar": {
+        "0": "Home",
+        "1": "Shop",
+        "2": "Blog",
+        "3": "About us",
+        "4": "Contact us",
+        "5": "Login / Register"
+    },
+    "home": {
+        "0": "Plants",
+        "1": "Planters",
+        "2": "Plant care",
+        "3": "Gift ideas",
+        "4": "A large selection of plants, fertilizers and accessories.",
+        "5": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.",
+        "6": "Rated 4.9 / 5 based on",
+        "7": "374 reviews",
+        "8": "Come for the plants, stay for the service plants.",
+        "9": "We believe plants and people belong together, but we know that city life sometimes keeps us apart. That’s why we set out to reconnect people.",
+        "10": "Shop all",
+        "11": "We value fairness and strive for simple products.",
+        "12": "Specially designed for shipping delicate living plants, our innovative packaging ensures maximum protection during transit and results.",
+        "13": "Shop all"
+    },
+    "exotic": {
+        "0": "Most popular products"
+    },
+    "video": {
+        "0": "Shopping by size",
+        "1": "1 - 2ft.",
+        "2": "Small plants",
+        "3": "Shop now",
+        "4": "2 - 4ft.",
+        "5": "Medium plants",
+        "6": "Shop now",
+        "7": "5+ ft.",
+        "8": "Large plants",
+        "9": "Shop now"
+    },
+    "extensive": {
+        "0": "Explore our",
+        "1": "extensive range of plants",
+        "2": "for",
+        "3": "your room.",
+        "4": "I am so happy, my dear friend, so absorbed in the exquisite sense of mere existence.",
+        "5": "Founder"
+    },
+    "article": {
+        "0": "Our articles",
+        "1": "Posted by",
+        "2": "Continue reading"
+    },
+    "insta": {
+        "0": "View our instagram"
+    },
+    "shop": {
+        "0": "Shop",
+        "1": "Enter product...",
+        "2": "Search",
+        "3": "All",
+        "4": "Low-to-high",
+        "5": "High-to-low",
+        "6": "Filtered Products",
+        "7": "Plants",
+        "8": "Planters",
+        "9": "Plant care",
+        "10": "Gift ideas"
+    },
+    "blog": {
+        "0": "Blog",
+        "1": "Posted by",
+        "2": "Continue reading"
+    },
+    "abouthero": {
+        "0": "About us",
+        "1": "Welcome to our cozy store"
+    },
+    "aboutinfo": {
+        "0": "From a small hobby to own chain of stores",
+        "1": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.",
+        "2": "When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.",
+        "3": "Establishing a brand",
+        "4": "Opening of the first store",
+        "5": "Opening of the second store"
+    },
+    "aboutcontact": {
+        "0": "Get answers to all your questions you might have.",
+        "1": "We will answer any questions you may have about our online",
+        "2": "Contact us",
+        "3": "Founder"
+    },
+    "contacthero": {
+        "0": "Contact us",
+        "1": "Get answers to all your questions you might have.",
+        "2": "We will answer any questions you may have about our online sales right here. Monday to Friday from ",
+        "3": "09:00 to 21:00 UTC +2",
+        "4": "Write a message"
+    },
+    "contactfeature": {
+        "0": "Atlanta",
+        "1": "Phone:",
+        "2": "Email:",
+        "3": "Address:",
+        "4": "320 Auburn Ave NE Atlanta, GA 30303 USA",
+        "5": "25 4th Ave S Nashville, TN 37201 USA"
+    },
+    "singleproduct": {
+        "0": "View more"
+    },
+    "wishlist": {
+        "0": "This wishlist is empty",
+        "1": "You don't have any products in the wishlist.",
+        "2": "You will find a lot of interesting products on our Shop page.",
+        "3": "Return to shop",
+        "4": "Wishlist",
+        "5": "YOUR PRODUCTS WISHLIST",
+        "6": "Remove",
+        "7": "Add to Cart"
+    },
+    "footer": {
+        "0": "Join our newsletter to stay up to date on features and releases.",
+        "1": "Sign up",
+        "2": "By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company.",
+        "3": "Shop",
+        "4": "Plants",
+        "5": "Planters",
+        "6": "Plant care",
+        "7": "Gift ideas",
+        "8": "Useful links",
+        "9": "Blog",
+        "10": "Contact us",
+        "11": "About us",
+        "12": "Contacts",
+        "13": "© 2024 Company, Inc. All rights reserved.",
+        "14": "Your email address"
+    },
+    "blogform": {
+        "0": "Image url",
+        "1": "Title",
+        "2": "Description",
+        "3": "Date",
+        "4": "Edit",
+        "5": "Add"
+    },
+    "addblog": {
+        "0": "AddBlog"
+    },
+    "editblog": {
+        "0": "EditBlog"
+    },
+    "blogdetails": {
+        "0": "BLOG",
+        "1": "Posted by",
+        "2": "If that’s what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader. Rigid proponents of content strategy may shun the use of dummy copy but then designers might want to ask them to provide style sheets.",
+        "3": "Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template. When it’s about controlling hundreds of articles, product pages for web shops, or user profiles in social networks, all of them potentially with different sizes, formats, rules for differing elements things can break, designs agreed upon can have unintended consequences and look much different than expected.",
+        "4": "Recent Posts"
+    },
+    "dashboard": {
+        "0": "Dashboard",
+        "1": "Photo",
+        "2": "Title",
+        "3": "Edit",
+        "4": "Delete",
+        "5": "Add blog"
+    },
+    "cart": {
+        "0": "Cart",
+        "1": "PRODUCT",
+        "2": "PRICE",
+        "3": "QUANTITY",
+        "4": "SUBTOTAL",
+        "5": "All clear",
+        "6": "CART TOTALS",
+        "7": "Shipping",
+        "8": "Flat rate",
+        "9": "Free shipping",
+        "10": "Local pickup",
+        "11": "Total",
+        "12": "Proceed to checkout",
+        "13": "No products in the cart."
+    },
+    "changepass": {
+        "0": "Change Password",
+        "1": "Current password",
+        "2": "New password",
+        "3": "Again Password",
+        "4": "Change"
+    },
+    "checkout": {
+        "0": "Billing details",
+        "1": "First name",
+        "2": "Last name",
+        "3": "Company name (optional)",
+        "4": "Country / Region *",
+        "5": "Street address *",
+        "6": "Town / City *",
+        "7": "State *",
+        "8": "ZIP Code *",
+        "9": "Phone *",
+        "10": "Email address *",
+        "11": "Your order",
+        "12": "PRODUCT",
+        "13": "SUBTOTAL",
+        "14": "Shipping",
+        "15": "Flat rate",
+        "16": "Free shipping",
+        "17": "Local pickup",
+        "18": "Total",
+        "19": "Payment information",
+        "20": "Direct bank transfer",
+        "21": "Check payments",
+        "22": "Cash on delivery",
+        "23": "Place order"
+    },
+    "faq": {
+        "0": "My order hasn't arrived yet. Where is it?",
+        "1": "A client that’s unhappy for a reason is a problem, a client that’s unhappy though he or her can’t quite put a finger on it is worse. Chances are there wasn’t collaboration, communication, and checkpoints, there wasn’t a process agreed upon or specified with the granularity required.",
+        "2": "It’s content strategy gone awry right from the start. Forswearing the use of Lorem Ipsum wouldn’t have helped, won’t help now. It’s like saying you’re a bad designer, use less bold text, don’t use italics in every other paragraph. True enough, but that’s not all that it takes to get things back on track.",
+        "3": "Do you deliver on public holidays?",
+        "4": "If that’s what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader. Rigid proponents of content strategy may shun the use of dummy copy but then designers might want to ask them to provide style sheets with the copy decks they supply that are in tune with the design direction they require.",
+        "5": "Do you deliver to my postcode?",
+        "6": "A client that’s unhappy for a reason is a problem, a client that’s unhappy though he or her can’t quite put a finger on it is worse. Chances are there wasn’t collaboration, communication, and checkpoints, there wasn’t a process agreed upon or specified with the granularity required.",
+        "7": "It’s content strategy gone awry right from the start. Forswearing the use of Lorem Ipsum wouldn’t have helped, won’t help now. It’s like saying you’re a bad designer, use less bold text, don’t use italics in every other paragraph. True enough, but that’s not all that it takes to get things back on track.",
+        "8": "Is next-day delivery available on all orders?",
+        "9": "If that’s what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader. Rigid proponents of content strategy may shun the use of dummy copy but then designers might want to ask them to provide style sheets with the copy decks they supply that are in tune with the design direction they require.",
+        "10": "Do I need to be there to sign for delivery?",
+        "11": "If that’s what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader. Rigid proponents of content strategy may shun the use of dummy copy but then designers might want to ask them to provide style sheets with the copy decks they supply that are in tune with the design direction they require."
+    },
+    "forgotpass": {
+        "0": "ForgotPassword",
+        "1": "Email",
+        "2": "Password",
+        "3": "Send"
+    },
+    "login": {
+        "0": "Login",
+        "1": "Email address",
+        "2": "Password",
+        "3": "Submit",
+        "4": "Create new account",
+        "5": "Forgot your password?"
+    },
+    "prodet": {
+        "0": "Details:",
+        "1": "Add to cart:",
+        "2": "Back",
+        "3": "Added to wishlist",
+        "4": "Add to wishlist",
+        "5": "Share:"
+    },
+    "register": {
+        "0": "Register",
+        "1": "Full Name",
+        "2": "Number",
+        "3": "Email",
+        "4": "Password",
+        "5": "Again Password",
+        "6": "Register",
+        "7": "Do you already have an account?"
+    },
+    "thankyou": {
+        "0": "Thank you. Your order has been received.",
+        "1": "Recomendation Products",
+        "2": "PRODUCT",
+        "3": "TOTAL",
+        "4": "Subtotal"
+    },
+    "account": {
+        "0": "Account",
+        "1": "Full Name",
+        "2": "Number",
+        "3": "Email",
+        "4": "Dashboard",
+        "5": "Change Password",
+        "6": "Logout"
+    },
+    "writemessage": {
+        "0": "Contact us",
+        "1": "Full Name",
+        "2": "Email",
+        "3": "Tel",
+        "4": "Message",
+        "5": "Send message"
+    }
+}

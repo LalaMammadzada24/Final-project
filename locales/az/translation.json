@@ -1,0 +1,286 @@
+{
+    "navbar": {
+        "0": "Ana Səhifə",
+        "1": "Mağaza",
+        "2": "Məqalə",
+        "3": "Haqqımızda",
+        "4": "Əlaqə saxlayın",
+        "5": "Giriş / Qeydiyyat"
+    },
+    "home": {
+        "0": "Bitkilər",
+        "1": "Dibçəklər",
+        "2": "Bitkilərə qulluq",
+        "3": "Hədiyə ideyaları",
+        "4": "Bitkilərin, gübrələrin və aksesuarların böyük seçimi.",
+        "5": "Bütün qəlbimlə həzz aldığım baharın bu şirin səhərləri kimi, bütün ruhumu gözəl bir sakitlik ələ keçirdi.",
+        "6": "4.9 / 5 əsasında qiymətləndirilib",
+        "7": "374 rəy",
+        "8": "Bitkilərə gəlin, xidmət bitkiləri üçün qalın.",
+        "9": "Biz bitkilərin və insanların bir-birinə aid olduğuna inanırıq, lakin bilirik ki, şəhər həyatı bəzən bizi bir-birimizdən ayırır. Ona görə də insanları yenidən birləşdirməyə başladıq.",
+        "10": "Hamısını al",
+        "11": "Biz ədaləti qiymətləndiririk və sadə məhsullar üçün çalışırıq.",
+        "12": "Zərif canlı bitkilərin daşınması üçün xüsusi olaraq hazırlanmış innovativ qablaşdırmamız tranzit və nəticələr zamanı maksimum qorunma təmin edir.",
+        "13": "Hamısını al"
+    },
+    "exotic": {
+        "0": "Ən məşhur məhsullar"
+    },
+    "video": {
+        "0": "Ölçüyə görə alış-veriş",
+        "1": "1 - 2ft.",
+        "2": "Kiçik bitkilər",
+        "3": "İndi alış-veriş edin",
+        "4": "2 - 4ft.",
+        "5": "Orta bitkilər",
+        "6": "İndi alış-veriş et",
+        "7": "5+ fut",
+        "8": "Böyük bitkilər",
+        "9": "İndi alış-veriş edin"
+    },
+    "extensive": {
+        "0": "Bizi kəşf edin",
+        "1": "bitkilərin geniş çeşidi",
+        "2": "üçün",
+        "3": "sizin otağınız.",
+        "4": "Mən çox xoşbəxtəm, əziz dostum, sadəcə varlığın incə hissinə o qədər dalmışam.",
+        "5": "Təsisçi"
+    },
+    "article": {
+        "0": "Məqalələrimiz",
+        "1": "Göndərən",
+        "2": "Oxumağa davam et"
+    },
+    "insta": {
+        "0": "Instagramımıza baxın"
+    },
+    "shop": {
+        "0": "Mağaza",
+        "1": "Məhsulu daxil edin...",
+        "2": "Axtarış",
+        "3": "Hamısı",
+        "4": "Ucuzdan bahaya",
+        "5": "Bahadan ucuza",
+        "6": "Məhsullarin növleri",
+        "7": "Bitkilər",
+        "8": "Əkinçilər",
+        "9": "Bitkilərə qulluq",
+        "10": "Hədiyyə ideyaları"
+    },
+    "blog": {
+        "0": "Məqalə",
+        "1": "Göndərən",
+        "2": "Oxumağa davam et"
+    },
+    "abouthero": {
+        "0": "Haqqımızda",
+        "1": "Rahat mağazamıza xoş gəlmisiniz"
+    },
+    "aboutinfo": {
+        "0": "Kiçik bir hobbidən öz mağazalar şəbəkəsinə qədər",
+        "1": "Bütün qəlbimlə ləzzət aldığım bu şirin bahar səhərləri kimi bütün ruhumu gözəl bir sakitlik ələ keçirdi. Mən təkəm və səadət üçün yaradılmış bu yerdə varlığın cazibəsini hiss edirəm. mənim kimi ruhların.",
+        "2": "Sevimli vadi ətrafımda buxarla dolarkən və meridian günəşi ağaclarımın keçilməz yarpaqlarının yuxarı səthinə vuranda.",
+        "3": "Brendin yaradılması",
+        "4": "İlk mağazanın açılışı",
+        "5": "İkinci mağazanın açılışı"
+    },
+    "aboutcontact": {
+        "0": "Bütün suallarınıza cavab alın.",
+        "1": "Onlaynla bağlı suallarınızı cavablandıracağıq",
+        "2": "Bizimlə əlaqə saxlayın",
+        "3": "Təsisçi"
+    },
+    "contacthero": {
+        "0": "Bizimlə əlaqə saxlayın",
+        "1": "Bütün suallarınıza cavab alın.",
+        "2": "Onlayn satışlarımızla bağlı suallarınızı burada cavablandıracağıq. Bazar ertəsindən cümə gününə qədər ",
+        "3": "09:00 - 21:00 UTC +2",
+        "4": "Mesaj yaz"
+    },
+    "contactfeature": {
+        "0": "Atlanta",
+        "1": "Telefon:",
+        "2": "E-poçt:",
+        "3": "Ünvan:",
+        "4": "320 Auburn Ave NE Atlanta, GA 30303 ABŞ",
+        "5": "25 4th Ave S Nashville, TN 37201 ABŞ"
+    },
+    "singleproduct": {
+        "0": "Daha çox baxın"
+    },
+    "wishlist": {
+        "0": "Bu istək siyahısı boşdur",
+        "1": "İstək siyahısında heç bir məhsulunuz yoxdur.",
+        "2": "Mağaza səhifəmizdə çoxlu maraqlı məhsullar tapa bilərsiniz.",
+        "3": "Mağazaya qayıdın",
+        "4": "İstək siyahısı",
+        "5": "MƏHSULLARINIZIN SİYAHISI",
+        "6": "Sil",
+        "7": "Səbətə əlavə et"
+    },
+    "footer": {
+        "0": "Xüsusiyyətlər və buraxılışlardan xəbərdar olmaq üçün bülletenimizə qoşulun.",
+        "1": "Qeydiyyatdan keçin",
+        "2": "Abunə olmaqla siz Məxfilik Siyasətimizlə razılaşırsınız və şirkətimizdən yenilikləri almağa razılıq verirsiniz.",
+        "3": "Mağaza",
+        "4": "Bitkilər",
+        "5": "Əkinçilər",
+        "6": "Bitkilərə qulluq",
+        "7": "Hədiyyə ideyaları",
+        "8": "Faydalı keçidlər",
+        "9": "Bloq",
+        "10": "Bizimlə əlaqə saxlayın",
+        "11": "Haqqımızda",
+        "12": "Əlaqə",
+        "13": "© 2024 Company, Inc. Bütün hüquqlar qorunur.",
+        "14": "Sənin e-poçtun"
+    },
+    "blogform": {
+        "0": "Şəkil url",
+        "1": "Başlıq",
+        "2": "Təsvir",
+        "3": "Tarix",
+        "4": "Redaktə edin",
+        "5": "Əlavə et"
+    },
+    "addblog": {
+        "0": "Əlavə Bloq "
+    },
+    "editblog": {
+        "0": "Bloqu redaktə edin"
+    },
+    "blogdetails": {
+        "0": "BLOG",
+        "1": "Göndərən",
+        "2": "Əgər siz belə düşünürsünüzsə, bunun əksini düşünürsünüz? Dizaynsız məzmunu necə qiymətləndirə bilərsiniz? Nə mətbəə, nə rəng, nə tərtibat, nə üslub, nə də vacib siqnalları ötürən şeylər sadəcə olaraq kənara çıxır. mətn, məlumat iyerarxiyası, çəki, vurğu, əyri vurğular, prioritetlər, oxucuya vizual və emosional cəlbedicilik gətirən bütün bu incə işarələr, məzmun strategiyasının sərt tərəfdarları dummy surətdən istifadə etməkdən çəkinə bilər, lakin sonra dizaynerlər onlardan soruşmaq istəyə bilər üslub vərəqlərini təmin etmək.",
+        "3": "Peşəkar istifadə şablon sistemlərindəki veb-saytlar. Kommersiya nəşriyyat platformaları və məzmun idarəetmə sistemləri eyni şablondan istifadə edərək fərqli mətnləri, fərqli məlumatları göstərə bilmənizi təmin edir. Söhbət yüzlərlə məqaləyə, veb mağazalar üçün məhsul səhifələrinə və ya istifadəçiyə nəzarətdən gedirsə sosial şəbəkələrdəki profillər, onların hamısı potensial olaraq müxtəlif ölçülərə, formatlara, fərqli elementlər üçün qaydalara malikdir, hər şey poza bilər, razılaşdırılmış dizaynlar gözlənilməz nəticələrə səbəb ola bilər və gözləniləndən çox fərqli görünə bilər.",
+        "4": "Son Mesajlar"
+    },
+    "dashboard": {
+        "0": "Admin panel",
+        "1": "Şəkil",
+        "2": "Başlıq",
+        "3": "Edit",
+        "4": "Sil",
+        "5": "Bloq əlavə et"
+    },
+    "cart": {
+        "0": "Səbət",
+        "1": "MƏHSUL",
+        "2": "QİYMƏT",
+        "3": "SAY",
+        "4": "ALT CƏMİ",
+        "5": "Hər şeyi sil",
+        "6": "Səbətə Cəmi",
+        "7": "Göndərmə",
+        "8": "Düz faiz",
+        "9": "Pulsuz çatdırılma",
+        "10": "Yerli götürmə",
+        "11": "Cəmi",
+        "12": "Ödənişə keçin",
+        "13": "Səbətdə məhsul yoxdur"
+    },
+    "changepass": {
+        "0": "Şifrəni dəyiş",
+        "1": "Cari parol",
+        "2": "Yeni parol",
+        "3": "Yenidən parol",
+        "4": "Dəyiş"
+    },
+    "checkout": {
+        "0": "Fatura təfərrüatları",
+        "1": "Adi",
+        "2": "Soyadı",
+        "3": "Şirkət adı (istəyə görə)",
+        "4": "Ölkə / Region *",
+        "5": "Küçə ünvanı *",
+        "6": "Şəhər / Şəhər *",
+        "7": "Dövlət *",
+        "8": "Poçt Kodu *",
+        "9": "Telefon *",
+        "10": "E-poçt ünvanı *",
+        "11": "Sifarişiniz",
+        "12": "MƏHSUL",
+        "13": "ALT CƏMİ",
+        "14": "Göndərmə",
+        "15": "Sabit tarif",
+        "16": "Pulsuz çatdırılma",
+        "17": "Yerli götürmə",
+        "18": "Cəmi",
+        "19": "Ödəniş haqqında məlumat",
+        "20": "Birbaşa bank köçürməsi",
+        "21": "Ödənişləri yoxlayın",
+        "22": "Çatdırılma zamanı nağd pul",
+        "23": "Sifariş verin"
+    },
+    "faq": {
+        "0": "Sifarişim hələ çatmayıb. Haradadır?",
+        "1": "Bir səbəbə görə bədbəxt olan müştəri problemdir, ona barmağını qoya bilməsə də, bədbəxt olan müştəri daha pisdir. Çox güman ki, əməkdaşlıq, ünsiyyət və yoxlama məntəqələri olmayıb. razılaşdırılmış və ya tələb olunan detallılıqla müəyyən edilmiş proses deyildi.",
+        "2": "Bu məzmun strategiyası əvvəldən yanlış getdi. Lorem Ipsum-un istifadəsinə and içmək kömək etməzdi, indi də kömək etməyəcək. Bu, pis dizayner olduğunuzu demək kimi bir şeydir, daha az qalın mətndən istifadə edin, etməyin",
+        "3": "Bayram günlərində çatdırırsınız?",
+        "4": "Əgər siz belə düşünürsünüzsə, bunun əksini düşünürsünüz? Dizaynsız məzmunu necə qiymətləndirə bilərsiniz? Nə mətbəə, nə rəng, nə tərtibat, nə üslub, nə də vacib siqnalları ötürən şeylər sadəcə olaraq kənara çıxır. mətn, məlumat iyerarxiyası, çəki, vurğu, əyri vurğular, prioritetlər, oxucuya vizual və emosional cəlbedicilik gətirən bütün bu incə işarələr, məzmun strategiyasının sərt tərəfdarları dummy surətdən istifadə etməkdən çəkinə bilər, lakin sonra dizaynerlər onlardan soruşmaq istəyə bilər stil vərəqlərini tələb etdikləri dizayn istiqamətinə uyğun olaraq təchiz etdikləri nüsxə lövhələri ilə təmin etmək.",
+        "5": "Poçt koduma çatdırırsınız?",
+        "6": "Bir səbəbə görə bədbəxt olan müştəri problemdir, ona barmağını vura bilməsə də, bədbəxt olan müştəri daha pisdir. Çox güman ki, əməkdaşlıq, ünsiyyət və yoxlama məntəqələri olmayıb. razılaşdırılmış və ya tələb olunan detallılıqla müəyyən edilmiş proses deyildi.",
+        "7": "Bu məzmun strategiyası əvvəldən yanlış getdi. Lorem Ipsum-un istifadəsinə and içmək kömək etməzdi, indi də kömək etməyəcək. Bu, pis dizayner olduğunuzu söyləmək kimi bir şeydir, daha az qalın mətn istifadə edin, etməyin",
+        "8": "Bütün sifarişlərdə növbəti gün çatdırılma mümkündürmü?",
+        "9": "Əgər siz belə düşünürsünüzsə, bunun əksini düşünürsünüz? Dizaynsız məzmunu necə qiymətləndirə bilərsiniz? Nə mətbəə, nə rəng, nə tərtibat, nə üslub, nə də bütün bunlar sadədən kənara çıxan vacib siqnalları çatdırır. mətn, məlumat iyerarxiyası, çəki, vurğu, əyri vurğular, prioritetlər, oxucuya vizual və emosional cəlbedicilik gətirən bütün bu incə işarələr, məzmun strategiyasının sərt tərəfdarları dummy surətdən istifadə etməkdən çəkinə bilər, lakin sonra dizaynerlər onlardan soruşmaq istəyə bilər üslub vərəqlərini tələb etdikləri dizayn istiqamətinə uyğun olaraq təchiz etdikləri nüsxə lövhələri ilə təmin etmək.",
+        "10": "Çatdırılma üçün imza atmaq üçün orada olmalıyam?",
+        "11": "Əgər siz belə düşünürsünüzsə, bunun əksini düşünürsünüz? Dizaynsız məzmunu necə qiymətləndirə bilərsiniz? Nə mətbəə, nə rəng, nə tərtibat, nə üslub, nə də bütün bunlar sadədən kənara çıxan mühüm siqnalları çatdırır. mətn, məlumat iyerarxiyası, çəki, vurğu, əyri vurğular, prioritetlər, oxucuya vizual və emosional cəlbedicilik gətirən bütün bu incə işarələr, məzmun strategiyasının sərt tərəfdarları dummy surətdən istifadə etməkdən çəkinə bilər, lakin sonra dizaynerlər onlardan soruşmaq istəyə bilər stil vərəqlərini tələb etdikləri dizayn istiqamətinə uyğun gələn surət dəstləri ilə təmin etmək."
+    },
+    "forgotpass": {
+        "0": "Şifrəni unutmuşam",
+        "1": "E-poçt",
+        "2": "Parol",
+        "3": "Göndər"
+    },
+    "login": {
+        "0": "Giriş",
+        "1": "E-poçt ünvanı",
+        "2": "Parol",
+        "3": "Göndər",
+        "4": "Yeni hesab yaradın",
+        "5": "Şifrənizi unutmusunuz?"
+    },
+    "prodet": {
+        "0": "Ətraflı məlumat:",
+        "1": "Səbətə əlavə et:",
+        "2": "Geri",
+        "3": "İstək siyahısına əlavə edildi",
+        "4": "İstək siyahısına əlavə et",
+        "5": "Paylaş:"
+    },
+    "register": {
+        "0": "Qeydiyyatdan keçin",
+        "1": "Tam adı",
+        "2": "Nömrə",
+        "3": "E-poçt",
+        "4": "Şifrə",
+        "5": "Yenidən parol",
+        "6": "Qeydiyyatdan keç",
+        "7": "Artıq hesabınız varmı?"
+    },
+    "thankyou": {
+        "0": "Təşəkkür edirəm. Sifarişiniz alındı.",
+        "1": "Tovsiye olunan mehsullar",
+        "2": "MƏHSUL",
+        "3": "Cəm",
+        "4": "Alt cəmi"
+    },
+    "account": {
+        "0": "Hesab",
+        "1": "Tam adı",
+        "2": "Nömrə",
+        "3": "E-poçt",
+        "4": "Admin panel",
+        "5": "Parolun dəyişdirilməsi",
+        "6": "Çıxış"
+    },
+    "writemessage": {
+        "0": "Bizimlə əlaqə saxlayın",
+        "1": "Tam adı",
+        "2": "E-poçt",
+        "3": "Tel",
+        "4": "Mesaj",
+        "5": "Mesaj göndər"
+    }
+}
